@@ -1,0 +1,61 @@
+{
+  "nome": "MG Bordados",
+  "slogan": "Bordados e camisetas personalizadas",
+  "descricao": "Gráfica de camisetas com bordados e personalização para empresas, equipes, eventos e presentes.",
+  "imagemPadrao": "imagens/padrao.svg",
+  "logo": {
+    "imagem": "imagens/logo.png",
+    "iniciais": "MG"
+  },
+    "cores": {
+    "denim": "#1d2f55",
+    "denim-escuro": "#142140",
+    "ouro": "#f0b429",
+    "linho": "#f4f6f9",
+    "tinta": "#161b26",
+    "coral": "#d94f4f"
+  },
+  "coresEscuro": {
+    "fundo": "#0f1522",
+    "superficie": "#172033",
+    "texto": "#e4e9f2",
+    "titulo": "#eef2fb",
+    "suave": "#a5b0c6",
+    "borda": "#2c3852",
+    "linha": "#8fa8dc",
+    "campo": "#0f1522"
+  },
+  "tema": {
+    "padrao": "auto",
+    "permitirAlternar": true,
+    "rotuloParaEscuro": "Ativar tema escuro",
+    "rotuloParaClaro": "Ativar tema claro"
+  },
+  "contato": {
+    "whatsapp": "+55 (11) 94749-5848",
+    "email": "mgbordados.sol@gmail.com",
+
+    "horario": [
+      { "dias": "Segunda a sexta", "horas": "08h às 20h" }
+    ],
+    "mapaUrl": ""
+  },
+  "redes": [
+    { "nome": "Instagram", "url": "https://www.instagram.com/mg.sportsgru/" },
+    { "nome": "Facebook", "url": "" }
+  ],
+  "whatsappMensagemPadrao": "Olá! Vim pelo site da MG Bordados e gostaria de pedir um orçamento.",
+  "rodape": {
+    "navegacao": "Navegação",
+    "contato": "Contato",
+    "redes": "Redes sociais",
+    "direitos": "© {ano} MG Bordados. Todos os direitos reservados."
+  },
+  "textos": {
+    "pularConteudo": "Ir para o conteúdo",
+    "abrirMenu": "Abrir menu",
+    "fecharMenu": "Fechar menu",
+    "erroCarregar": "Não foi possível carregar o conteúdo do site. Se você abriu o arquivo direto do computador, rode um servidor local (veja o README.md).",
+    "semJavascript": "Este site precisa do JavaScript ativado para mostrar o conteúdo."
+  }
+}

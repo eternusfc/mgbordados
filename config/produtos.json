@@ -1,0 +1,112 @@
+{
+  "categorias": [
+    { "id": "camisetas", "nome": "Camisetas", "descricao": "Time, uniforme, empresas, polo, dry fit, pv, piquet e fluit."},
+    { "id": "calcas", "nome": "Calças", "descricao": "Moletom, leggin e helanca."},
+    { "id": "shorts", "nome": "Shorts", "descricao": "Tactel, dry e ciclista."},
+    { "id": "blusas", "nome": "Blusas", "descricao": "Moletom e helanca."},
+    { "id": "uniformes", "nome": "Uniformes", "descricao": "Uniformes personalizados para sua equipe."},
+    { "id": "coletes", "nome": "Coletes", "descricao": "Coletes de treino personalizados."},
+    { "id": "collants", "nome": "Collants", "descricao": "Collants de treino."}
+  ],
+  "produtos": [
+    {
+      "id": "camiseta-fluit",
+      "nome": "Camiseta Fluit",
+      "categoria": "camisetas",
+      "descricao": "Camiseta com logotipo ou nome bordado no peito, na manga ou nas costas.",
+      "imagem": "imagens/camisetas/fluit.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "Bordado", "DTF"]
+    },
+    {
+      "id": "camiseta-polo",
+      "nome": "Camiseta Polo",
+      "categoria": "camisetas",
+      "descricao": "Polo para uniformes e eventos corporativos, com a marca da empresa bordada.",
+      "imagem": "imagens/camisetas/polo.jpeg",
+      "destaque": false,
+      "tecnicas": ["Estampa", "Bordado", "DTF"]
+    },
+
+
+
+    {
+      "id": "calca-legging",
+      "nome": "Calça Legging",
+      "categoria": "calcas",
+      "descricao": "Calça legging com estampa na frente, nas costas ou nos dois lados.",
+      "imagem": "imagens/calcas/legging.jpeg",
+      "destaque": false,
+      "tecnicas": ["Estampa", "DTF"]
+    },
+ 
+
+    {
+      "id": "shorts-esportivo",
+      "nome": "Shorts Esportivo",
+      "categoria": "shorts",
+      "descricao": "Shorts com estampa na frente, nas costas ou nos dois lados.",
+      "imagem": "imagens/shorts/esportivo.jpeg",
+      "destaque": false,
+      "tecnicas": ["Estampa", "DTF"]
+    },
+
+
+    {
+      "id": "agasalho-moletom",
+      "nome": "Agasalho de Moletom",
+      "categoria": "blusas",
+      "descricao": "Moletom e agasalho com estampa ou bordado para turmas, times e equipes.",
+      "imagem": "imagens/blusas/moletom.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "Bordado", "DTF"]
+    },
+    {
+      "id": "blusa-personalizada",
+      "nome": "Blusa de helanca personalizada",
+      "categoria": "blusas",
+      "descricao": "Blusa de frio de helanca com estampa ou bordado para turmas, times e equipes.",
+      "imagem": "imagens/blusas/helanca.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "Bordado", "DTF"]
+    },
+    {
+      "id": "blusa-manga-longa-fluit",
+      "nome": "Blusa Manga Longa - Fluit",
+      "categoria": "blusas",
+      "descricao": "Blusa de frio de helanca com estampa ou bordado para turmas, times e equipes.",
+      "imagem": "imagens/blusas/manga-longa-fluit.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "Bordado", "DTF"]
+    },
+
+
+    {
+      "id": "camiseta-time",
+      "nome": "Camiseta Time Basquete",
+      "categoria": "uniformes",
+      "descricao": "Camiseta personalizada para seu time com estampa na frente e atrás.",
+      "imagem": "imagens/uniformes/time.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "DTF"]
+    },
+    {
+      "id": "camisa-time-basquete",
+      "nome": "Camiseta Time Basquete",
+      "categoria": "uniformes",
+      "descricao": "Camiseta de basquete personalizada do seu time.",
+      "imagem": "imagens/uniformes/basquete.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "DTF"]
+    },
+    {
+      "id": "uniforme-brim",
+      "nome": "Uniforme brim personalizado",
+      "categoria": "uniformes",
+      "descricao": "Uniforme de brim personalizado para sua empresa.",
+      "imagem": "imagens/uniformes/brim.jpeg",
+      "destaque": true,
+      "tecnicas": ["Estampa", "DTF"]
+    }
+  ]
+}

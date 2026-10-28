@@ -1,0 +1,10 @@
+{
+  "itens": [
+    { "rotulo": "Início", "href": "index.html", "pagina": "home" },
+    { "rotulo": "Produtos", "href": "produtos.html", "pagina": "produtos" },
+    { "rotulo": "Serviços", "href": "servicos.html", "pagina": "servicos" },
+    { "rotulo": "Sobre", "href": "sobre.html", "pagina": "sobre" },
+    { "rotulo": "Contato", "href": "contato.html", "pagina": "contato" }
+  ],
+  "cta": { "rotulo": "Pedir orçamento", "acao": "whatsapp" }
+}

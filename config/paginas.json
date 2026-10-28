@@ -1,0 +1,198 @@
+{
+  "home": {
+    "titulo": "",
+    "descricao": "Gráfica de camisetas com bordados e personalização para empresas, equipes, eventos e presentes.",
+    "hero": {
+      "titulo": "Sua marca costurada em cada peça.",
+      "texto": "Bordados e camisetas personalizadas para empresas, equipes, eventos e presentes. Você conta a ideia e a gente cuida do resto, da arte à entrega.",
+      "botaoPrincipal": { "rotulo": "Pedir orçamento", "acao": "whatsapp" },
+      "botaoSecundario": { "rotulo": "Ver produtos", "href": "produtos.html" },
+      "imagem": "imagens/logo.png",
+      "imagemAlt": "Camiseta bordada pela MG Bordados"
+    },
+    "categorias": {
+      "titulo": "O que você procura?",
+      "texto": "Escolha um tipo de trabalho para ver os produtos."
+    },
+    "destaques": {
+      "titulo": "Produtos em destaque",
+      "texto": "Peças que servem de ponto de partida para o seu pedido.",
+      "botao": { "rotulo": "Ver todos os produtos", "href": "produtos.html" },
+      "botaoProduto": "Pedir orçamento"
+    },
+    "passos": {
+      "titulo": "Como funciona o pedido",
+      "itens": [
+        { "titulo": "Conte o que você precisa", "texto": "Diga o que quer fazer, a quantidade e, se tiver, envie a sua arte ou logotipo." },
+        { "titulo": "Receba o orçamento", "texto": "Enviamos o valor, o prazo e uma prévia de como a peça vai ficar." },
+        { "titulo": "Aprove a arte", "texto": "Você confere os detalhes e só então começamos a produzir." },
+        { "titulo": "Produção e entrega", "texto": "Fazemos o trabalho, conferimos cada peça e combinamos a entrega ou a retirada." }
+      ]
+    },
+    "diferenciais": {
+      "titulo": "Por que a MG Bordados",
+      "itens": [
+        { "titulo": "Atendimento direto", "texto": "Você conversa com quem cuida do seu pedido, sem intermediários." },
+        { "titulo": "Arte aprovada antes da produção", "texto": "Você vê como vai ficar e confirma antes de a gente começar." },
+        { "titulo": "Acabamento conferido", "texto": "Cada peça é revisada antes de ser entregue." }
+      ]
+    },
+    "chamada": {
+      "titulo": "Vamos bordar a sua ideia?",
+      "texto": "Conte o que você precisa e receba um orçamento sem compromisso.",
+      "botao": { "rotulo": "Falar no WhatsApp", "acao": "whatsapp" }
+    }
+  },
+
+  "produtos": {
+    "titulo": "Produtos",
+    "descricao": "Camisetas, polos, bonés, jalecos e outras peças bordadas ou estampadas sob medida.",
+    "cabecalho": {
+      "titulo": "Produtos",
+      "texto": "Peças bordadas e estampadas sob medida. Escolha um modelo para pedir orçamento ou fale com a gente para criar algo diferente."
+    },
+    "filtro": {
+      "rotulo": "Filtrar por tipo",
+      "todos": "Todos",
+      "contagemUm": "{n} produto",
+      "contagemVarios": "{n} produtos",
+      "vazio": "Nenhum produto neste tipo por enquanto."
+    },
+    "botaoProduto": "Pedir orçamento",
+    "chamada": {
+      "titulo": "Não achou o que procurava?",
+      "texto": "Fazemos peças sob medida. Descreva o que você quer e a gente responde com um orçamento.",
+      "botao": { "rotulo": "Falar com a gente", "href": "contato.html" }
+    }
+  },
+
+  "servicos": {
+    "titulo": "Serviços",
+    "descricao": "Bordado, estampa, uniformes para empresas e preparação de arte.",
+    "cabecalho": {
+      "titulo": "Serviços",
+      "texto": "Do desenho ao produto pronto: estes são os trabalhos que fazemos."
+    },
+    "itens": [
+      {
+        "titulo": "Bordado",
+        "texto": "Logotipos, nomes e desenhos bordados em camisetas, polos, bonés, jalecos e outras peças.",
+        "pontos": ["Bordado de logotipo", "Nome e cargo em uniformes", "Aplicação em peças que você já tem"]
+      },
+      {
+        "titulo": "Estampa",
+        "texto": "Estampas para camisetas de equipes, turmas, eventos e campanhas.",
+        "pontos": ["Camisetas para eventos", "Estampa na frente e nas costas", "Artes com várias cores"]
+      },
+      {
+        "titulo": "Uniformes para empresas",
+        "texto": "Peças padronizadas para a sua equipe, com a identidade da marca.",
+        "pontos": ["Padronização de equipes", "Pedidos recorrentes", "Reposição de peças"]
+      },
+      {
+        "titulo": "Arte e personalização",
+        "texto": "Ajudamos a preparar a arte para que ela fique bem no bordado ou na estampa.",
+        "pontos": ["Ajuste de logotipo", "Prévia antes da produção", "Sugestão de posição e tamanho"]
+      }
+    ],
+    "chamada": {
+      "titulo": "Tem um pedido em mente?",
+      "texto": "Fale com a gente e conte o que você precisa.",
+      "botao": { "rotulo": "Pedir orçamento", "acao": "whatsapp" }
+    }
+  },
+
+  "sobre": {
+    "titulo": "Sobre",
+    "descricao": "Conheça a MG Bordados, gráfica de camisetas especializada em bordados e personalização.",
+    "cabecalho": {
+      "titulo": "Sobre a MG Bordados",
+      "texto": "Bordados e camisetas personalizadas, feitos com atenção a cada detalhe."
+    },
+    "historia": {
+      "titulo": "Quem somos",
+      "paragrafos": [
+        "A MG Bordados é uma gráfica de camisetas especializada em bordados e personalização. Atendemos empresas, equipes, eventos e pessoas que querem uma peça com identidade própria.",
+        "Cuidamos de cada pedido do início ao fim: conversa, arte, produção e entrega."
+      ],
+      "imagem": "imagens/logo.png",
+      "imagemAlt": "Equipe e ateliê da MG Bordados"
+    },
+    "valores": {
+      "titulo": "O que guia o nosso trabalho",
+      "itens": [
+        { "titulo": "Capricho", "texto": "Revisamos cada peça antes de entregar." },
+        { "titulo": "Clareza", "texto": "Valor, prazo e arte combinados antes de começar." },
+        { "titulo": "Parceria", "texto": "Tratamos a sua marca como se fosse a nossa." }
+      ]
+    },
+    "chamada": {
+      "titulo": "Quer conversar sobre o seu pedido?",
+      "texto": "Mande uma mensagem e conte a sua ideia.",
+      "botao": { "rotulo": "Ir para o contato", "href": "contato.html" }
+    }
+  },
+
+  "contato": {
+    "titulo": "Contato",
+    "descricao": "Peça um orçamento à MG Bordados pelo WhatsApp, e-mail ou telefone.",
+    "cabecalho": {
+      "titulo": "Contato",
+      "texto": "Conte o que você precisa. Respondemos com um orçamento para o seu pedido."
+    },
+    "info": {
+      "titulo": "Fale com a gente",
+      "rotulos": {
+        "whatsapp": "WhatsApp",
+        "telefone": "Telefone",
+        "email": "E-mail",
+        "endereco": "Endereço",
+        "horario": "Horário de atendimento",
+        "redes": "Redes sociais"
+      },
+      "mapaTitulo": "Mapa com a localização da MG Bordados"
+    },
+    "formulario": {
+      "titulo": "Peça seu orçamento",
+      "campos": [
+        { "id": "nome", "rotulo": "Nome", "tipo": "text", "obrigatorio": true, "autocomplete": "name" },
+    
+        { "id": "quantidade", "rotulo": "Quantidade aproximada", "tipo": "text", "inputmode": "numeric" },
+        {
+          "id": "mensagem",
+          "rotulo": "Detalhes do pedido",
+          "tipo": "textarea",
+          "obrigatorio": true,
+          "ajuda": "Cores, tamanhos, onde vai o bordado ou a estampa e o prazo desejado."
+        }
+      ],
+      "selecione": "Selecione",
+      "outroProduto": "Outro (descrevo abaixo)",
+      "botaoWhatsapp": "Enviar pelo WhatsApp",
+      "botaoEmail": "Enviar por e-mail",
+      "assuntoEmail": "Pedido de orçamento",
+      "aviso": "Ao enviar, abrimos o WhatsApp ou o seu e-mail com a mensagem pronta. Nada é guardado neste site."
+    },
+    "faq": {
+      "titulo": "Perguntas frequentes",
+      "itens": [
+        {
+          "pergunta": "Posso enviar a minha própria arte?",
+          "resposta": "Pode. Quanto mais nítido for o arquivo do logotipo, melhor fica o resultado. Se você só tem uma foto ou um desenho, a gente ajuda a preparar a arte."
+        },
+        {
+          "pergunta": "Como funciona o orçamento?",
+          "resposta": "Você conta o que precisa pelo formulário ou pelo WhatsApp. Respondemos com valor, prazo e uma prévia, e você decide se quer seguir."
+        },
+        {
+          "pergunta": "Vocês fazem pedidos pequenos?",
+          "resposta": "Fale com a gente e informe a quantidade. Combinamos o que é possível para o seu caso."
+        },
+        {
+          "pergunta": "Posso levar as peças que já tenho?",
+          "resposta": "Em muitos casos sim. Descreva a peça no formulário e confirmamos se dá para bordar ou estampar."
+        }
+      ]
+    }
+  }
+}
